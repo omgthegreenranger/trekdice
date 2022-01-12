@@ -1,0 +1,23 @@
+{
+  "name": "trekdice",
+  "title": "Trek Dice",
+  "description": "Making custom dice for Star Trek Adventures",
+  "author": "GoGreenRanger",
+  "version": "0.1",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.9.0",
+  "dependencies": [
+        {
+            "type": "module",
+            "name": "dice-so-nice"
+        }
+    ],
+  "scripts": [
+        "scripts/trekdice.json"
+  ]//,
+  // "url": "https://github.com/LyncsCwtsh/fvtt-module-Nice-more-Dice",
+  // "manifest": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/nice-more-dice/module.json",
+  // "download": "https://raw.githubusercontent.com/LyncsCwtsh/fvtt-module-nice-more-dice/main/module.zip"
+}
+
+
